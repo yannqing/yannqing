@@ -29,13 +29,13 @@ I am a **Full-stack Practitioner** with a passion for building robust, scalable 
 ### 📊 Github Statistics
 
 <div align="center">
-  ![](https://raw.githubusercontent.com/yannqing/yannqing/main/github-metrics.svg)
+  <img src="https://raw.githubusercontent.com/yannqing/yannqing/main/github-metrics.svg" alt="Yannqing's Metrics" width="100%" />
 </div>
 
 ---
 
 ### 📫 Let's Connect
-- **X (Twitter)**: [@yannqing_](https://x.com/your_handle) *(记得换成你的账号)*
-- **Email**: [your-email@example.com]
+- **X (Twitter)**: [@yannqing_](https://x.com/@yan_qing02) 
+- **Email**: [yannqing020803@gmail.com]
 
 > "Growth over Perfection. Shipping code every single day."
