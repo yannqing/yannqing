@@ -1,11 +1,13 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}] # 每天零点自动更新
-  workflow_dispatch: # 支持手动点击运行
-push: {branches: ["master", "main"]}
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 必须包含这一行，允许 Action 写入文件
     steps:
       - uses: lowlighter/metrics@latest
         with:
