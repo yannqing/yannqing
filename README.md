@@ -29,9 +29,7 @@ I am a **Full-stack Practitioner** with a passion for building robust, scalable 
 ### 📊 Github Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yannqing&show_icons=true&theme=radical&hide_border=true" alt="Yannqing's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannqing&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  ![](https://raw.githubusercontent.com/yannqing/yannqing/main/github-metrics.svg)
 </div>
 
 ---
